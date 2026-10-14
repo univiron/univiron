@@ -1,0 +1,25 @@
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Never track secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Local planning + working files — never committed (workspace policy)
+CLAUDE.md
+STATE.md
+RUNLOG.md
+SPEC.md
+SPEC-*.md
+SPEC_*.md
+adrs/
+adr/
+
+# Claude-local config — the whole dir is local, never committed
+.claude/
