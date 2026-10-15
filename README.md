@@ -18,4 +18,4 @@
   coming soon. stand by.
 ```
 
-<sub>KeMeK Network © 2026. All rights reserved. The Univiron name and mark are trademarks.</sub>
+<sub>KeMeK Network © 2026. All rights reserved.</sub>
